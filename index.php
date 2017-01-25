@@ -8,4 +8,5 @@
 echo 'Hola este es un cambio';
 echo 'otro cambio';
 echo 'cambio desde pnoboa1';
+$va1 = "aaaaaa";
 ?>
